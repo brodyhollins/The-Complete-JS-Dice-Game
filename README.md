@@ -7,8 +7,6 @@ The players can roll as many times as they want as long as they dont roll a 1 or
 FEATURES:
 -DOM manipulation
 -User control
--
--
 
 LANGUAGES:
 -HTML
